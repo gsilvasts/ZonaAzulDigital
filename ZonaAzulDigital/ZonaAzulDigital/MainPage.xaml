@@ -4,7 +4,7 @@
              xmlns:local="clr-namespace:ZonaAzulDigital"
              x:Class="ZonaAzulDigital.MainPage">
 
-	<Label Text="Welcome to Xamarin Forms!" 
+	<Label Text="Bem Vindo a Zona Azul Digital!" 
            VerticalOptions="Center" 
            HorizontalOptions="Center" />
 
